@@ -1,5 +1,4 @@
 ﻿<?php
-  phpenfo();
+  phpinfo();
 
- enfo(10*10*10);
 >
